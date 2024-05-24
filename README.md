@@ -1,5 +1,5 @@
 # datosBCCR_Cuadrados_a_Series
-Convertir datos de Banco Central de Costa Rica (BCCR) de forma cuadrado a Serie de Tiempo, por ejemplo: Prime Rate de EE.UU., La Tasa Básica Pasiva (TBP) y la Tasa Política Monetaria (TPM).
+Convertir datos de Banco Central de Costa Rica (BCCR) de forma cuadrado a Serie de Tiempo, por ejemplo: Prime Rate de EE.UU., la Tasa Básica Pasiva (TBP) y la Tasa Política Monetaria (TPM).
 
 
 ## 1.1 Contexto
